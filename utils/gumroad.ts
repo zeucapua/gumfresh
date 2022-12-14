@@ -1,4 +1,5 @@
 import { Product } from "./types.ts";
+import "https://deno.land/std@0.167.0/dotenv/load.ts";
 const GUMROAD_API_URL = "https://api.gumroad.com/v2/";
 const GUMROAD_ACCESS_TOKEN = Deno.env.get("GUMROAD_ACCESS_TOKEN");
 if (GUMROAD_ACCESS_TOKEN === undefined) {
