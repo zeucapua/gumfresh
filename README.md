@@ -4,7 +4,6 @@
 - Customizable using TailwindCSS (specifically twind)
 
 ## Getting Started
---------------------
 Install the [Deno CLI](https://deno.land). 
 
 Go ahead and clone this repo. If you're using Github's CLI:
@@ -27,7 +26,6 @@ Open your browser to [http://localhost:8000] to see the website. If you're ready
 this website online, use [Deno Deploy](https://deno.com) with Github to get it up and running!
 
 ## TODO
--------------------
-[] One Product One Page
-[] Multiple Product Pictures (Carousel?)
-[] Embedded Checkout
+[ ] One Product One Page
+[ ] Multiple Product Pictures (Carousel?)
+[ ] Embedded Checkout
