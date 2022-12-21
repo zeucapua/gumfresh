@@ -1,3 +1,5 @@
+<img src="/static/favicon.ico"></img>
+
 # Gumfresh: A Gumroad Storefront built with Fresh
 
 - Built with Deno's Fresh and online via Deno Deploy.
