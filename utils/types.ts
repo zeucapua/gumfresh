@@ -8,3 +8,4 @@ export interface Product {
     formatted_price: string,
     file_info: Object,
 }
+
